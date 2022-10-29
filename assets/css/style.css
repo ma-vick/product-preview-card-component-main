@@ -40,7 +40,7 @@ body {
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url(/assets/images/image-product-desktop.jpg);
+    background-image: url(../images/image-product-desktop.jpg);
 }
 
 .text {
